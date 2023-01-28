@@ -1,0 +1,7 @@
+ul {
+    font-weight: bold;
+}
+
+ul li p{
+    font-weight: lighter;
+}
